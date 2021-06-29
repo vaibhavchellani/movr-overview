@@ -9,16 +9,16 @@ module.exports = {
   // basic site info (required)
   name: 'Movr Network',
   domain: 'overview.movr.network',
-  author: 'Vaibhav Chellani',
+  author: 'MovrNetwork',
 
   // open graph metadata (optional)
-  description: 'Example site description',
+  description: 'Movr Network Quick Overview',
   socialImageTitle: 'Transitive Bullshit',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
   twitter: 'movrnetwork',
-  github: 'Movr-Network',
+  github: 'movrnetwork',
   //linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
